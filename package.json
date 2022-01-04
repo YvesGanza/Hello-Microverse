@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/YvesGanza/Hello-world/issues"
   },
-  "homepage": "https://github.com/YvesGanza/Hello-world#readme"
+  "homepage": "https://github.com/YvesGanza/Hello-world#readme",
+  "devDependencies": {
+    "eslint": "^8.6.0"
+  }
 }
